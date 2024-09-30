@@ -1,3 +1,10 @@
+## How To Run
+- Clone the repository
+- Run `npm i` on each folder
+- Run `npm start` on each folder
+- Access through `localhost:300x`
+
+## Screenshot
 - Container (localhost:3000) - Combining Container, Header, and Movie List
   ![container](https://github.com/myoganugraha/POC-micro_frontend/blob/master/screenshot/movie-3000.png?raw=true)
 
