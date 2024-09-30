@@ -1,0 +1,12 @@
+.header {
+    background-color: rgb(15, 33, 50);
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+  }
+
+  .navButton {
+    color: white;
+    font-weight: bold;
+  }
