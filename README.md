@@ -4,6 +4,10 @@
 - Run `npm start` on each folder
 - Access through `localhost:300x`
 
+## Reference(s)
+- https://github.com/jherr/create-mf-app
+- https://dev.to/shivampawar/setup-micro-frontend-application-with-react-js-m87
+
 ## Screenshot
 - Container (localhost:3000) - Combining Container, Header, and Movie List
   ![container](https://github.com/myoganugraha/POC-micro_frontend/blob/master/screenshot/movie-3000.png?raw=true)
