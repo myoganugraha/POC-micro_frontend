@@ -3,14 +3,10 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import Container from "./components/container";
-const MovieDetails = React.lazy(() => import("details/MovieDetails"));
 
 const App = () => (
   <Routes>
     <Route path="/" element={<Container />} />
-    <Route path="/:id" element={<Suspense fallback={'Loading'}>
-      <MovieDetails/>
-    </Suspense>} />
   </Routes>
 );
 const rootElement = document.getElementById("container-component");
