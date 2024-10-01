@@ -2,6 +2,7 @@
 - Clone the repository
 - Run `npm i` on each folder
 - Run `npm start` on each folder
+- need to provide TMDB API_KEY to access `Movie Details localhost:3003`
 - Access through `localhost:300x`
 
 ## Reference(s)
